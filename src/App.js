@@ -6,7 +6,6 @@ import {
   Popup,
   Polygon,
   useMap,
-  Tooltip,
 } from "react-leaflet";
 import L from "leaflet";
 import newMarker from "./data/circle-16.png";
